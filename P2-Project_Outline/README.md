@@ -9,18 +9,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 A website which will allow users to input various fitness data, select exercise programs, and create their own exercise programs. The user will be able to compare their acheived level of exercise with a target level. I hope to include a a calendar function so data can be tracked on a daily basis. 
 ### Features
-User Login
-set exercise goals
-Create exercise and workout charts
-Graph showing targets and achieved levels of exercise
-create rankings for all users
+* User Login
+* set exercise goals
+* Create exercise and workout charts
+* Graph showing targets and achieved levels of exercise
+* create rankings for all users
 
 ### Technologies
-Include Technologies here
-C#
-AJAX
-JQuery
-Linq
+* C#
+* AJAX
+* JQuery
+* Linq
 
 ### What I'll Have to Learn
 Include what you will need to learn here
