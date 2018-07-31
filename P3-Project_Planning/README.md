@@ -19,3 +19,5 @@ For this assignment, you'll create some initial plans for your project.
 ### Project Tracker
 
 https://github.com/JMayher/liftoff-assignments/projects/1
+
+https://github.com/JMayher/FitnessPal
